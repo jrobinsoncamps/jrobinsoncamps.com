@@ -1,0 +1,8 @@
+# MM Forms Community
+1.0.1 	- Fixed plugin path problems
+1.0.1 	- Fixed tabs in Admin
+1.0.2 	- Fixed captcha
+1.0.3 	- Delete submissions fixed
+		- Fixed some include links
+		- Jump to success / error message on submit
+1.1		- Fixed the problems with Wordpress 3 - Thanks to @bramesposito for his excellent knowledge of Javascript and JSON.

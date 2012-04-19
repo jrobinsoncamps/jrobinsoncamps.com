@@ -1,0 +1,51 @@
+div.mmf {
+	margin: 0;
+	padding: 0;
+}
+
+div.mmf-response-output {
+	margin: 2em 0.5em 1em;
+	padding: 0.2em 1em;
+}
+
+div.mmf-mail-sent-ok {
+	border: 1px dashed #AFAFA4;
+}
+
+div.mmf-mail-sent-ng {
+	border: 1px dashed #FF7800;
+}
+
+div.mmf-spam-blocked {
+	border: 1px dashed #FF7800;
+}
+
+div.mmf-validation-errors {
+	border: 1px dashed #FF7800;
+}
+
+span.mmf-form-control-wrap {
+	position: relative;
+}
+
+span.mmf-not-valid-tip {
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	z-index: 100;
+	background: #fff;
+	border: 1px solid #FF7800;
+	font-size: 10pt;
+	width: 280px;
+	padding: 2px;
+}
+
+span.mmf-not-valid-tip-no-ajax {
+	color: #f00;
+	font-size: 10pt;
+	display: block;
+}
+
+span.mmf-list-item {
+	margin-left: 0.5em;
+}
