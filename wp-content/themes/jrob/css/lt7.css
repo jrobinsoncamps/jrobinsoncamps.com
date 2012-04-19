@@ -1,0 +1,57 @@
+.top-nav li,
+#footer ul li{background-image: expression( (this===this.parentNode.childNodes[0]) ? "none" : "auto");}
+.slogan{
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-slogan.png', sizingmethod='crop');
+}
+#main-nav a{
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-main-nav-link.png', sizingmethod='scale');
+}
+#main-nav a:hover{
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-main-nav-link-hover.png', sizingmethod='scale');
+}
+#main-nav .dropdown a,
+#main-nav .dropdown a:hover{filter:none;}
+#main-nav li{behavior: expression(this.onmouseover = new Function("this.className += ' hover'"), this.onmouseout = new Function("this.className = this.className.replace(' hover','')"), this.style.behavior = null);}
+#main-nav .dropdown ul {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-dropdown.png', sizingmethod='scale');
+}
+.video-area .video-holder {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-video-holder.png', sizingmethod='crop');
+}
+.video-area .btn-play span {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/btn-play.png', sizingmethod='crop');
+}
+.video-box .txt-new-blood {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/txt-new-blood.png', sizingmethod='crop');
+}
+.video-box .txt-parents {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/txt-parents.png', sizingmethod='crop');
+}
+.video-box .txt-veterans {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/txt-veterans.png', sizingmethod='crop');
+}
+.video-box .txt-ccaches {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/txt-ccaches.png', sizingmethod='crop');
+}
+.promo-area .txt-learn {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/txt-learn.png', sizingmethod='crop');
+}
+.txt-2010 {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/txt-2010.png', sizingmethod='crop');
+}
+.txt-dates {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/txt-dates.png', sizingmethod='crop');
+}
