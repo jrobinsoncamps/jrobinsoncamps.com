@@ -44,7 +44,7 @@
 							</div>
 
 </div>
-				<div class="sponsors"><a href="http://www.matmanwrestling.com/" title="MATMAN"><img src="/images/2537.png" alt="Matman" /></a></div>
+				
 
 <div class="bottom-section">
 				<div class="toolbar">
