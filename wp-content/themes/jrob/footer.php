@@ -12,18 +12,12 @@
 ?>
 	<div id="footer" role="contentinfo">
 		<div id="colophon">
-					<!-- addthis button -->
-			<div class="addbtn-holder">
-				<blockquote>
-				  <blockquote>
-				    <p><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=takeittoeleven"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" /></a>
-			        </p>
-			      </blockquote>
-		      </blockquote>
-			</div>
+
 			<!-- promo-area -->
 
-<a href="http://jrobinsoncamps.com/learn-to-earn/"><img src="http://jrobinsoncamps.com/wp-content/uploads/2012/02/legendaryshirt3.png" alt="I DID IT SHIRT"/></a> 	  
+<a href="http://jrobinsoncamps.com/learn-to-earn/"><img src="http://jrobinsoncamps.com/wp-content/uploads/2012/02/legendaryshirt3.png" alt="I DID IT SHIRT"/></a> 
+
+<a href="http://www.jrobinsoncamps.com/ty-eustice/"><img src="http://www.jrobinsoncamps.com/wp-content/themes/jrob/images/tyeusticebanner3.png" alt="ty eustice"/></a>	  
 
 			<!-- bottom-section -->
 							
