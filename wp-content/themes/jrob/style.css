@@ -56,7 +56,7 @@ ul#menu-top-menu li a{ font-size:10px;}
 div#header div#access {}
 
 div#header ul.menu { background:url(images/bg-main-nav-link.png) repeat-x; clear:both; display:inline-block; margin:0 0 15px 0; padding:0; list-style:none; width:848px; /*height:315px;*/ }
-div#header ul.menu li { display: inline-block; background:url(images/separator-main-nav.gif) no-repeat 0 2px; list-style:none; margin:0 0 0 -2px; }
+div#header ul.menu li { display: inline-block; background:url(images/separator-main-nav.gif) no-repeat 0 2px; list-style:none; margin:0 0 0 -10px; }
 div#header ul.menu a { display: block; height:32px; text-align:center; font:bold 15px/35px Arial, Helvetica, sans-serif; cursor:pointer; padding: 0 18px; }
 div#header ul.menu a:hover, div#header ul.menu .active a { text-decoration:none; background:url(images/bg-main-nav-link-hover.png) repeat-x; }
 div#header ul.menu .first-child { background:none; }
